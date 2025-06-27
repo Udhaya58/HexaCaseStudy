@@ -6,6 +6,9 @@ https://drive.google.com/file/d/1vq7Bfpxpc01bxvsCLKa4FyW8-O-taj8v/view?usp=shari
 ## PPT of the project
 https://docs.google.com/presentation/d/1o-D580Sy5MORekWApRFnJaL3GpMHIvrp/edit?usp=sharing&ouid=101941230146649101203&rtpof=true&sd=true
 
+##ScreenShots
+https://docs.google.com/document/d/1X4hkpEOumtdXULcnlLprScCmKwGMgUhV/edit?usp=sharing&ouid=101941230146649101203&rtpof=true&sd=true
+
 
 # 🍽️ Food Ordering System (Spring Boot)
 
